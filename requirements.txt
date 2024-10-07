@@ -1,0 +1,6 @@
+Flask==2.3.3
+rembg==2.0.30
+Pillow==10.0.0
+numpy==1.24.3
+numba==0.56.4
+gunicorn==20.1.0
