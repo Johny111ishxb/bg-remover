@@ -1,9 +1,9 @@
 name = "background-remover"
 type = "python"
 
-account_id = "YOUR_ACCOUNT_ID"
+account_id = "6985a0a8491427aee57107f93794a7fa"
 workers_dev = true
 compatibility_date = "2023-10-07"
 
 [[routable]]
-pattern = "your-worker-subdomain.cloudflareworkers.com/*"
+pattern = "bg-remover-8lb.pages.dev" #domain of my tool
