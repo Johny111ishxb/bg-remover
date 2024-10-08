@@ -11,7 +11,7 @@ async function handleRequest(request) {
         }
 
         // You can use fetch to call your Flask server here
-        const response = await fetch('https://your-flask-app-url/upload', {
+        const response = await fetch('https://0978f8c0.bg-remover-8lb.pages.dev/upload', {
             method: 'POST',
             body: formData,
         });
