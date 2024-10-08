@@ -6,4 +6,4 @@ workers_dev = true
 compatibility_date = "2023-10-07"
 
 [[routable]]
-pattern = "bg-remover-8lb.pages.dev" #domain of my tool
+pattern = "https://0978f8c0.bg-remover-8lb.pages.dev/" #domain of my tool
